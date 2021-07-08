@@ -1,3 +1,5 @@
+//Implementing Bubble Sort in Javascript
+
 let bubbleSort = (inputArr) => {
     let len = inputArr.length;
     for (let i = 0; i < len; i++) {
